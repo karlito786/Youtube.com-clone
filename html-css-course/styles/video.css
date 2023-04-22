@@ -50,3 +50,8 @@
   column-gap: 16px;
   row-gap: 40px;
 }
+
+.video-title-link {
+  text-decoration: none;
+  color: black;
+}
